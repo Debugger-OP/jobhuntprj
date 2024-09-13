@@ -11,7 +11,7 @@ const Footer = () => {
             </h2>
             <p className="text-sm">
               © 2024 Crafted by{" "}
-              <span className="font-bold text-[#6A38C2]">Saurav Sharma</span>
+              <span className="font-bold text-[#6A38C2]">Saurav Sharma </span>
               with ❤️‍🔥
             </p>
           </div>
